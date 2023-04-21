@@ -3,7 +3,7 @@ html, body {
     padding: 0; 
     font-family: 'Helvetica', 'Arial';
     background-color: rgba(0, 0, 0, 0.85);
-    background-image: url("https://github.com/khoa2TVGS/eot-husc-test/blob/808ea3c500cebbc057631cece86209d89397a0a0/img/vn_map.jpg");
+    background-image: url("eot-husc-test/img/vn_map.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 2400px;
